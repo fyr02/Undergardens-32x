@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+		    { "model": "block/crimson_fungus/crimson_fungus_0", "weight": 5 },
+			{ "model": "block/crimson_fungus/crimson_fungus_1", "weight": 4 }
+	    ]
+    }
+}

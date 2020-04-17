@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+		    { "model": "block/nether_sprouts/nether_sprouts", "weight": 5 },
+			{ "model": "block/nether_sprouts/tall_nether_sprouts", "weight": 4 },
+			{ "model": "block/nether_sprouts/twisted_sprout", "weight": 4 }
+	    ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+		    { "model": "block/warped_roots/warped_roots", "weight": 5 },
+			{ "model": "block/warped_roots/baby_warped_roots", "weight": 3 },
+			{ "model": "block/warped_roots/hellgrass_0", "weight": 5 },
+			{ "model": "block/warped_roots/hellgrass_1", "weight": 5 },
+			{ "model": "block/warped_roots/scorched_hellgrass", "weight": 1 }
+	    ]
+    }
+}
